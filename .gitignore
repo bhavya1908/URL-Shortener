@@ -1,0 +1,22 @@
+# Node modules
+**/node_modules
+/frontend/node_modules/
+/backend/node_modules/
+
+# Logs
+*.log
+
+# Environment variables
+**/.env
+ frontend/.env 
+ git add .
+git commit -m "Initial commit - URL Shortener Project"
+ backend/.env
+
+# Build files (if any)
+dist/
+build/
+# Screenshot or output files
+*.avif
+*.jpg
+*.jpeg
